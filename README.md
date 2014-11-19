@@ -13,7 +13,7 @@ Lesson 16 - CSS Concepts Continued
 3. Go to `lesson16/DoNow/donow.html`
 4. Preview `donow.html`
 5. Add the HTML for an image of your favorite singer to `donow.html`
-6. Add the CSS to make the page look like this:
+6. Add the CSS to `donow.css` to make the page look like this:
   ![Do now](images/lesson16donow.png)
 
 ====
