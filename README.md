@@ -23,7 +23,7 @@ Lesson 16 - CSS Concepts Continued
 1. Open your Nitrous
 2. Go to `lesson16/Activity/activity.html`
 3. Preview `activity.html`
-4. Write the CSS in `activity.css` to make `activity.html` look like this:
+4. Write the CSS in `activity.css` to make the page look like this:
   ![Activity](images/lesson16activity.png)
 
 * Hint 1: Try using the `font-family` property
