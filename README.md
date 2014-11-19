@@ -10,14 +10,29 @@ Lesson 16 - CSS Concepts Continued
   cd ~/workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson16.git
   ```
 
-![Nitrous terminal](images/nitrous-small.png)
+  ![Nitrous terminal](images/nitrous-small.png)
 
 3. Follow the instructions in `donow.html` in the `lesson16/DoNow` folder
+
+====
+###Activity
+
+1. Open your Nitrous
+2. Go to `lesson16/Activity/activity.html`
+3. Preview `activity.html`
+4. Write the CSS in `activity.css` to make `activity.html` look like this:
+
+  ![Activity](images/lesson16activity.png)
+
+* Hint 1: Try using the `font-family` property
+* Hint 2: Try using the `text-align` property
 
 ###Bonus Challenge
 
 1. Find `bonus.html` and `bonus.css` in `lesson16/BonusChallenge`
 2. Write the HTML and CSS for this webpage, but use your own text and images!
+
+====
 
  ![Bonus Challenge](images/lesson16bonus.png)
 
