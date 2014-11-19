@@ -5,6 +5,7 @@ Lesson 16 - CSS Concepts Continued
 
 1. Open your Nitrous account
 2. Copy and paste this command into your Nitrous Terminal:
+  
   ```
   cd ~/workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson16.git
   ```
