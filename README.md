@@ -40,3 +40,9 @@ Lesson 16 - CSS Concepts Continued
 * Hint 1: There is a **text field** and a **button** on the page!
 * Hint 2: One image on the page has a `border-radius` and a `border`
 * Hint 3: If you don't know how to do something, Google it! Example Google search: `button HTML`
+
+====
+
+###Google Hackathon!
+
+[bit.ly/ScriptEdHackathon](bit.ly/ScriptEdHackathon)
