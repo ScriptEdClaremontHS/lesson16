@@ -45,4 +45,4 @@ Lesson 16 - CSS Concepts Continued
 
 ###Google Hackathon!
 
-[bit.ly/ScriptEdHackathon](bit.ly/ScriptEdHackathon)
+Fill out this form: [bit.ly/ScriptEdHackathon](http://bit.ly/ScriptEdHackathon)
